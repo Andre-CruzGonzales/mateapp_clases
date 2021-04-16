@@ -4,3 +4,4 @@ requermientos de una silla
 - tornillos
 - barniz
 - herramientas
+- taladro
